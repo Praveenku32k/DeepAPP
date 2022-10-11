@@ -6,8 +6,8 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 
 REPO_NAME = "DeepAPP"
-AUTHOR_USER_NAME = ""
-SRC_REPO = "deepClassifier"
+AUTHOR_USER_NAME = "Praveen Kumar"
+SRC_REPO = "DeepClassifier"
 AUTHOR_EMAIL = "praveenku32k@gmail.com"
 
 setuptools.setup(
